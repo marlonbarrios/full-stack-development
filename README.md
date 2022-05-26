@@ -86,4 +86,18 @@ AugmentedReality #artest #webdevelopment
 
 [CODE REPOSITORY](https://github.com/marlonbarrios/ar-nft-redpants 'CODE REPOSITORY')
 
+## Single Page Site | Gatsby
+
+## Dan Van Note Portfolio | Videographer 
+
+
+![Screen Shot 2022-05-25 at 1 47 28 PM](https://user-images.githubusercontent.com/90220317/170329645-31a50d5f-072f-49b1-acc7-b2e09d5e6f85.png)
+
+
+I created this image centric web/mobile porfolio for the videographer Daniel Van Note. He wanted a very elegant and minimalistic protfolio website with a will feature the rich imnagery of his commercial and artistic work. I developed a site modifying the Gatsby/React.js 'Starter Portfolio: Jodie' code and content managed in Markdown.
+
+[LIVE APP](https://github.com/marlonbarrios/danielprotfolio 'LIVE APP')
+
+[CODE REPOSITORY](https://github.com/marlonbarrios/music-player-react 'CODE REPOSITORY')
+
 [Back to Portfolio](https://marlonbarrios.github.io/)
