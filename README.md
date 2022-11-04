@@ -2,18 +2,6 @@
 
 [Back to Portfolio](https://marlonbarrios.github.io/)
 
-## REACT Music Player
-
-
-
-<img width="1516" alt="Screen Shot 2022-05-25 at 10 53 08 AM" src="https://user-images.githubusercontent.com/90220317/170292444-0584f207-c259-4524-a7c2-abfff5f197d3.png">
-
-
-I developed this React.js web app for the group to share music adding YouTube muic video and music from SounCloud. The video are added to a list fetching the thunbnail, name and artist data. The user may play them loading the songs in the player and also may create a queue. The personal queue us handled in the browser and the main list and data is managed by Apollo/GraphQR in Hasura/Heroku. You may add some tracks and share the noise!
-
-[LIVE APP](https://app-music-player.netlify.app/ 'LIVE APP')
-
-[CODE REPOSITORY](https://github.com/marlonbarrios/music-player-react 'CODE REPOSITORY')
 
 ## CryptoMondrian
 
@@ -64,6 +52,16 @@ We were inspired by the Futures Thinking discipline, as an approach to creative 
 [LIVE APP](https://futuresthinking.herokuapp.com/ 'LIVE APP')
 
 [CODE REPOSITORY](https://github.com/marlonbarrios/project2-hai-QR/blob/main/README.md 'CODE REPOSITORY')
+
+## REACT Music Player
+
+<img width="1516" alt="Screen Shot 2022-05-25 at 10 53 08 AM" src="https://user-images.githubusercontent.com/90220317/170292444-0584f207-c259-4524-a7c2-abfff5f197d3.png">
+
+I developed this React.js web app for the group to share music adding YouTube muic video and music from SounCloud. The video are added to a list fetching the thunbnail, name and artist data. The user may play them loading the songs in the player and also may create a queue. The personal queue us handled in the browser and the main list and data is managed by Apollo/GraphQR in Hasura/Heroku. You may add some tracks and share the noise!
+
+[LIVE APP](https://app-music-player.netlify.app/ 'LIVE APP')
+
+[CODE REPOSITORY](https://github.com/marlonbarrios/music-player-react 'CODE REPOSITORY')
 
 ## Augmented Reality in JS: Prototype 
 
