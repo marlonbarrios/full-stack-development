@@ -49,7 +49,7 @@ We were inspired by the Futures Thinking discipline, as an approach to creative 
 
 We were inspired by the Futures Thinking discipline, as an approach to creative and exploratory process that uses divergent thinking, seeking many possible answers and acknowledging uncertainty. It's a different mind-set to analytical thinking which uses convergent thinking to seek the right answer and reduce uncertainty. In Futures Thinking, the user is prompted to complete the phrase: "In the future...".
 
-[LIVE APP](https://futuresthinking.herokuapp.com/ 'LIVE APP')
+[LIVE APP](https://haiqr2.herokuapp.com/ 'LIVE APP')
 
 [CODE REPOSITORY](https://github.com/marlonbarrios/project2-hai-QR/blob/main/README.md 'CODE REPOSITORY')
 
@@ -65,9 +65,11 @@ I developed this React.js web app for the group to share music adding YouTube mu
 
 ## Augmented Reality in JS: Prototype 
 
-Load this site in your mobile device:
+Load this site in your mobile device (works in phones, still unstable in android):
 
 https://lnkd.in/e3ysdk6Q
+
+![redpants](https://user-images.githubusercontent.com/90220317/200053351-3b1a1dd1-0465-4ef4-a4ed-881c811e21bc.png)
 
 Follow prompts.
 Scan this image with your device.
