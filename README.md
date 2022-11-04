@@ -69,7 +69,7 @@ Load this site in your mobile device (works in phones, still unstable in android
 
 https://lnkd.in/e3ysdk6Q
 
-![redpants](https://user-images.githubusercontent.com/90220317/200053351-3b1a1dd1-0465-4ef4-a4ed-881c811e21bc.png)
+![redpants](https://user-images.githubusercontent.com/90220317/200053752-49e2e05a-6d0f-453f-b468-3c32c4b8ad91.png)
 
 Follow prompts.
 Scan this image with your device.
