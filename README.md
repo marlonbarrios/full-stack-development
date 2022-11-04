@@ -65,8 +65,7 @@ I developed this React.js web app for the group to share music adding YouTube mu
 
 ## Augmented Reality in JS: Prototype 
 
-Load this site in your mobile device (works in phones, still unstable in android):
-
+Load this site in your mobile device (works on Iphones, still unstable on android):
 https://lnkd.in/e3ysdk6Q
 
 ![redpants](https://user-images.githubusercontent.com/90220317/200053752-49e2e05a-6d0f-453f-b468-3c32c4b8ad91.png)
@@ -96,8 +95,8 @@ AugmentedReality #artest #webdevelopment
 
 I created this image centric web/mobile porfolio for the videographer Daniel Van Note. He wanted a very elegant and minimalistic protfolio website with a will feature the rich imnagery of his commercial and artistic work. I developed a site modifying the Gatsby/React.js 'Starter Portfolio: Jodie' code and content managed in Markdown.
 
-[LIVE APP](https://github.com/marlonbarrios/danielprotfolio 'LIVE APP')
+[LIVE APP](https://vannotevideos.com/ 'LIVE APP')
 
-[CODE REPOSITORY](https://github.com/marlonbarrios/music-player-react 'CODE REPOSITORY')
+[CODE REPOSITORY](https://github.com/marlonbarrios/danielprotfolio 'CODE REPOSITORY')
 
 [Back to Portfolio](https://marlonbarrios.github.io/)
